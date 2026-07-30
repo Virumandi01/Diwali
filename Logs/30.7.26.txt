@@ -1,3 +1,7 @@
 Created the git repo
 
 DT PLATBOOK MY IDEAS: https://docs.google.com/document/d/1e3qCjrWW2a_qSl6wwTUzjr2opgo6k9ukdVaKFn6mPWc/edit?usp=sharing
+
+Design Basics SYSTEM DESIGN: https://docs.google.com/document/d/1dzBRHMR3ok22iQhv--q_MvLncyTFQMkXZpWhq3bwo0E/edit?usp=sharing
+
+System Design Basic API Concepts : https://docs.google.com/document/d/11ulSMQeoGHAQTDbe9masZN9wL1MOM_fMo40CMXyj4dQ/edit?usp=sharing
