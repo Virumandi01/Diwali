@@ -7,3 +7,5 @@ Design Basics SYSTEM DESIGN: https://docs.google.com/document/d/1dzBRHMR3ok22iQh
 System Design Basic API Concepts : https://docs.google.com/document/d/11ulSMQeoGHAQTDbe9masZN9wL1MOM_fMo40CMXyj4dQ/edit?usp=sharing
 
 DREAM COMPANY PREP : https://docs.google.com/document/d/1mQNqviqqDkq5xM1UFfcjXsej5WUsYHGQh9NXTFOPLw4/edit?usp=sharing
+
+DATA INTERPRETATION : https://drive.google.com/file/d/1RIo16At_hTjCncuIpmOCPHesWj4l6Ni6/view?usp=sharing
