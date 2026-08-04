@@ -1,0 +1,2 @@
+
+functional and non functional Requirements, latency and Throughput : https://docs.google.com/document/d/1SgCg_XLf8Y2HNYOxuqj1Vy83VwfPt1QMiwpeTd-qPUw/edit?usp=sharing
