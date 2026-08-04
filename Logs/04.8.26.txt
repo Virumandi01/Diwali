@@ -1,3 +1,6 @@
 
 
  CAP Theorem : https://docs.google.com/document/d/1ysu-SJH6IpmNGIoDtSqQcqgzAAZSmEn6FFRRuCixmIU/edit?usp=sharing
+
+
+serverless architecture : https://docs.google.com/document/d/1S0HXvCAuclsKHVjKNJRvycR9yUbzTdZ-WKju4MRF9oE/edit?usp=sharing 
